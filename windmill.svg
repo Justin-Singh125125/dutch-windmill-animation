@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4641"
+   sodipodi:docname="dutch_bros.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs4635" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.84884666"
+     inkscape:cx="209.81155"
+     inkscape:cy="718.16981"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="746"
+     inkscape:window-x="18"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4638">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="raster image"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none;opacity:1">
+    <image
+       sodipodi:absref="/Users/alan/Desktop/wip/windmill/windmill.jpg"
+       xlink:href="windmill.jpg"
+       y="45.267857"
+       x="44.601181"
+       id="image5248"
+       preserveAspectRatio="none"
+       height="105.83334"
+       width="105.83334"
+       style="fill:#00406c;fill-opacity:0.99043059" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="windmill base"
+     style="display:inline">
+    <path
+       style="fill:#004060;fill-opacity:0.99043059;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.362714,141.24348 c 0.127696,0.0958 8.172509,1.72389 8.172509,1.72389 l 20.686657,0.0319 8.10867,-1.66004 -6.89556,-51.014332 2.61776,-0.510783 -14.301891,-15.13191 -14.301891,15.259606 2.809301,0.446934 z"
+       id="path5275"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="windmill blades">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path939"
+       d="m 130.66781,64.819865 c -3.25624,-2.49006 -14.59041,-6.68652 -14.59041,-6.68652 0,0 -18.506096,22.543183 -20.688905,24.593704 -12.967182,12.078402 -17.484084,16.08223 -31.668471,20.878201 3.256235,2.49006 14.59041,6.68652 14.59041,6.68652 0,0 18.506092,-22.543183 20.688901,-24.593704 12.967185,-12.078402 17.484085,-16.08223 31.668475,-20.878201 z"
+       style="fill:#004060;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.99043059;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#004060;fill-opacity:0.99043059;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.58661,117.68645 c 2.49006,-3.25624 6.68652,-14.59041 6.68652,-14.59041 0,0 -22.54318,-18.506095 -24.593704,-20.688904 C 86.601024,69.439954 82.597196,64.923052 77.801225,50.738665 c -2.49006,3.256235 -6.68652,14.59041 -6.68652,14.59041 0,0 22.543183,18.506092 24.593704,20.688901 12.078401,12.967185 16.082231,17.484084 20.878201,31.668474 z"
+       id="path961"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>
