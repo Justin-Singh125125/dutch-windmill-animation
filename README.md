@@ -1,8 +1,13 @@
-Here, we will turn  `windmill.jpg`  into an animated image. Here is that image:
+Here, we will turn  `windmill.jpg`  into an animated image. 
+See it deployed on [Github Pages](https://captainalan.github.io/dutch-windmill-animation/). 
+
+Here is the source image we'll be trying to animate:
 
 ![windmill](windmill.jpg)
 
-First, we will create a vector image Inkscape. You can see that file in this
+## Workflow
+
+First, I created a vector image in Inkscape. You can see that file in this
 repo (`windmill.svg`).
 
 I then exported some `.png` images to manipulate in the browser. See
