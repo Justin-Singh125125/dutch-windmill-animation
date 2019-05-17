@@ -1,27 +1,64 @@
 .windmill {
 	width: 300px;
-	background: yellow;
 }
 
 .windmill .blades {
     position: absolute;
-	top: 80px;
-	left: 80px;
-	width: 120px;
-	height: 120px;
-	/*margin:-120px 0 0 -120px;*/
-	margin:-60px 0 0 -60px;
+	top: 27%;
+	left: 40%;
+	width: 200px;
+	height: 200px;
+
 	-webkit-animation:spin 4s linear infinite;
 	-moz-animation:spin 4s linear infinite;
 	animation:spin 4s linear infinite;
 }
 
 .windmill .base {
-    position: absolute;
-	top: 65px;
-	left: 48px;
+	position: absolute;
+	width: 125px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
 @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
 @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
+
+@media only screen and (max-width: 850px) {
+	.windmill .blades{
+		left: 38%;
+	}
+  }
+
+@media only screen and (max-width: 740px) {
+	.windmill .blades{
+		left: 36%;
+	}
+	
+  }
+  @media only screen and (max-width: 580px) {
+	.windmill .blades{
+		left: 34%;
+	}
+	
+  }
+  @media only screen and (max-width: 540px) {
+	.windmill .blades{
+		left: 32%;
+	}
+  }
+  @media only screen and (max-width: 445px) {
+	.windmill .blades{
+		left: 28%;
+	}
+		
+  }
+  @media only screen and (max-width: 375px) {
+	.windmill .blades{
+		left: 24%;
+	}
+  }
